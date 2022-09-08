@@ -1,12 +1,9 @@
 # Hi there 👋, I'm Ifeoluwa Oludare
 
-
-
 - 🔭 I’m currently working on **building static landing page using HTML, CSS and Vanilla Javascript**
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Reactjs**
 - 🤔 I’m looking for help with **structure learning resource and reactjs buddies**
 - 💬 Ask me about **myself and what I do**
-  
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
@@ -28,7 +25,6 @@
 
 <h3 align="left">My Stats</h3>
 
-![Ifeoluwah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeoluwah21&show_icons=true&theme=tokyonight&count_private=true)
+![Ifeoluwah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeoluwah21&theme=default&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeoluwah21&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeoluwah21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
