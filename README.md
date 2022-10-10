@@ -28,3 +28,5 @@
 ![Ifeoluwah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeoluwah21&theme=default&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeoluwah21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![@ifeoluwah's Holopin board](https://holopin.io/api/user/board?user=ifeoluwah)](https://holopin.io/@ifeoluwah)
