@@ -1,32 +1,39 @@
-# Hi there 👋, I'm Ifeoluwa Oludare
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ifeoluwa
 
-- 🔭 I’m currently working on **building static landing page using HTML, CSS and Vanilla Javascript**
-- 🌱 I’m currently learning **Reactjs**
-- 🤔 I’m looking for help with **structure learning resource and reactjs buddies**
-- 💬 Ask me about **myself and what I do**
+## A Web Developer
 
-<h3 align="left">How to reach me:</h3>
+I'm proficient with building the user interfaces of websites and applications which will be functional, responsive, and aesthetically pleasing to users.
+
+- 🌍  I'm based in Lagos, Nigeria.
+- ✉️  You can contact me via [email](mailto:spencerife.21@gamil.com)
+- 🧠  I'm learning React, Typescript and improving my JavaScript skills.
+- 💨 I'm currently working on projects that will increase my proficiency.
+- ⛑️ I am open to Front-end roles or collaboration on any well thought out project.
+
+### Skills
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/oludare-ifeoluwa-19b5331a2/" title="linkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/ width="40" height="40"></a>
-  <a href="https://twitter.com/_ifeoluwaaa" title="twitter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" / width="40" height="40"></a>
-  <a href="mailto:spencerife.21@gmail.com" title="mail"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" width="45" height="45"></a>
- </p>
-
- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="50" 
-  height="50"i/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+ <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 </p>
 
-<h3 align="left">My Stats</h3>
+### Socials
 
-![Ifeoluwah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeoluwah21&theme=default&show_icons=true)
+<p align="left"> <a href="https://www.linkedin.com/in/oludare-ifeoluwa-19b5331a2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/_ifeoluwaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifeoluwah21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Badges
 
 [![@ifeoluwah's Holopin board](https://holopin.io/api/user/board?user=ifeoluwah)](https://holopin.io/@ifeoluwah)
+
+<b>My GitHub Stats</b>
+
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=ifeoluwah21&hide_title=true&line_height=25&hide_rank=false&theme=dark&show_icons=true&hide_border=true"></a>&nbsp;
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeoluwah21&theme=dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=ifeoluwah21&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
+</div>
